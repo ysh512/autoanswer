@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="which_contacts">
+    	<item>所有来电</item>
+    	<item>本机通讯录中的来电</item>
+    	<item>星标的联系人的来电</item>
+   	</string-array>
+	<string-array name="which_contacts_values">
+    	<item>all</item>
+       	<item>contacts</item>
+    	<item>starred</item>
+	</string-array>
+	<string-array name="delay">
+    	<item>2 秒</item>
+       	<item>4 秒</item>
+    	<item>6 秒</item>
+    	<item>8 秒</item>
+    	<item>10 秒</item>
+    	<item>12 秒</item>
+    </string-array>
+	<string-array name="delay_values">
+    	<item>2</item>
+       	<item>4</item>
+    	<item>6</item>
+    	<item>8</item>
+    	<item>10</item>
+    	<item>12</item>
+    </string-array>
+
+</resources>
